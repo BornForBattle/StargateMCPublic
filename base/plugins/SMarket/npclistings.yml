@@ -24,178 +24,177 @@ items:
         - ALL
   '3':
     materialName: GRASS
-    amount: 0
-    chance: 0.0
+    amount: 10
+    chance: 15
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime:60
+    minListingTime: 30
+    maxPrice: 90
+    minPrice: 20
     sellers: []
     dimensions: []
   '4':
     materialName: DIRT
-    amount: 0
-    chance: 0.0
+    amount: 10
+    chance: 80
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
-    sellers: []
+    maxListingTime: 60
+    minListingTime:30    
+    maxPrice: 15
+    minPrice:5    sellers: []
     dimensions: []
   '5':
     materialName: COBBLESTONE
-    amount: 0
-    chance: 0.0
+    amount: 10
+    chance:50
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 60
+    minListingTime: 30
+    maxPrice: 100
+    minPrice:50
     sellers: []
     dimensions: []
   '6':
     materialName: WOOD
-    amount: 0
-    chance: 0.0
+    amount:15
+    chance: 30
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 50
+    minListingTime: 20
+    maxPrice: 90
+    minPrice: 60
     sellers: []
     dimensions: []
   '7':
     materialName: SAPLING
-    amount: 0
-    chance: 0.0
+    amount: 15
+    chance:40
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 60
+    minListingTime: 30
+    maxPrice: 50
+    minPrice: 30
     sellers: []
     dimensions: []
   '8':
     materialName: BEDROCK
-    amount: 0
-    chance: 0.0
+    amount: 64
+    chance: 20
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 50
+    minListingTime: 30
+    maxPrice: 120
+    minPrice: 60
     sellers: []
     dimensions: []
   '9':
     materialName: WATER
-    amount: 0
-    chance: 0.0
+    amount: 5
+    chance: 30
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 60
+    minListingTime: 40 
+    maxPrice: 40
+    minPrice: 20
     sellers: []
     dimensions: []
   '10':
     materialName: STATIONARY_WATER
-    amount: 0
-    chance: 0.0
+    amount: 5
+    chance: 34
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 50
+    minListingTime: 30
+    maxPrice: 50
+    minPrice: 35
     sellers: []
     dimensions: []
   '11':
     materialName: LAVA
-    amount: 0
-    chance: 0.0
+    amount: 5
+    chance: 34
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 60
+    minListingTime: 40
+    maxPrice: 50
+    minPrice: 30
     sellers: []
     dimensions: []
   '12':
     materialName: STATIONARY_LAVA
-    amount: 0
-    chance: 0.0
+  amount: 5
+    chance: 34
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 50
+    minListingTime: 30
+    maxPrice: 50
+    minPrice: 35
     sellers: []
     dimensions: []
   '13':
     materialName: SAND
-    amount: 0
-    chance: 0.0
+    amount: 30
+    chance: 60
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 60
+    minListingTime: 20
+    maxPrice: 50
+    minPrice: 30
     sellers: []
     dimensions: []
   '14':
     materialName: GRAVEL
-    amount: 0
-    chance: 0.0
+    amount: 30
+    chance: 30
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 60
+    minListingTime: 30
+    maxPrice: 80
+    minPrice: 30
     sellers: []
     dimensions: []
   '15':
     materialName: GOLD_ORE
-    amount: 0
-    chance: 0.0
+    amount: 16
+    chance: 90
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 60
+    minListingTime: 20
+    maxPrice: 100
+    minPrice: 50
     sellers: []
     dimensions: []
   '16':
     materialName: IRON_ORE
-    amount: 0
-    chance: 0.0
+    amount: 16
+    chance: 90
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 60
+    minListingTime: 20
+    maxPrice: 100
+    minPrice: 50
     sellers: []
     dimensions: []
   '17':
     materialName: COAL_ORE
-    amount: 0
-    chance: 0.0
+   amount: 16
+    chance: 90
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 60
+    minListingTime: 20
+    maxPrice: 100
+    minPrice: 50
     sellers: []
     dimensions: []
   '18':
     materialName: LOG
-    amount: 0
-    chance: 0.0
+    amount: 16
+    chance: 90
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 60
+    minListingTime: 20
+    maxPrice: 100
+    minPrice: 50
     sellers: []
     dimensions: []
   '19':
@@ -211,134 +210,134 @@ items:
     dimensions: []
   '20':
     materialName: SPONGE
-    amount: 0
-    chance: 0.0
+  amount: 16
+    chance: 90
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 60
+    minListingTime: 20
+    maxPrice: 100
+    minPrice: 50
     sellers: []
     dimensions: []
   '21':
     materialName: GLASS
-    amount: 0
-    chance: 0.0
+  amount: 16
+    chance: 90
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 60
+    minListingTime: 20
+    maxPrice: 100
+    minPrice: 50
     sellers: []
     dimensions: []
   '22':
     materialName: LAPIS_ORE
-    amount: 0
-    chance: 0.0
+    amount: 16
+    chance: 90
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 60
+    minListingTime: 20
+    maxPrice: 100
+    minPrice: 50
     sellers: []
     dimensions: []
   '23':
     materialName: LAPIS_BLOCK
-    amount: 0
-    chance: 0.0
+  amount: 16
+    chance: 90
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 60
+    minListingTime: 20
+    maxPrice: 100
+    minPrice: 50
     sellers: []
     dimensions: []
   '24':
     materialName: DISPENSER
-    amount: 0
-    chance: 0.0
+  amount: 16
+    chance: 90
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 60
+    minListingTime: 20
+    maxPrice: 100
+    minPrice: 50
     sellers: []
     dimensions: []
   '25':
     materialName: SANDSTONE
-    amount: 0
-    chance: 0.0
+amount: 16
+    chance: 90
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 60
+    minListingTime: 20
+    maxPrice: 80
+    minPrice: 50
     sellers: []
     dimensions: []
   '26':
     materialName: NOTE_BLOCK
-    amount: 0
-    chance: 0.0
+    amount: 16
+    chance: 90
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 60
+    minListingTime: 20
+    maxPrice: 100
+    minPrice: 50
     sellers: []
     dimensions: []
   '27':
     materialName: BED_BLOCK
-    amount: 0
-    chance: 0.0
+amount: 16
+    chance: 90
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 60
+    minListingTime: 20
+    maxPrice: 20
+    minPrice: 5
     sellers: []
     dimensions: []
   '28':
     materialName: POWERED_RAIL
-    amount: 0
-    chance: 0.0
+    amount: 16
+    chance: 90
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 60
+    minListingTime: 20
+    maxPrice: 100
+    minPrice: 50
     sellers: []
     dimensions: []
   '29':
     materialName: DETECTOR_RAIL
-    amount: 0
-    chance: 0.0
+amount: 16
+    chance: 90
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 60
+    minListingTime: 20
+    maxPrice: 100
+    minPrice: 50
     sellers: []
     dimensions: []
   '30':
     materialName: PISTON_STICKY_BASE
-    amount: 0
-    chance: 0.0
+amount: 16
+    chance: 90
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 60
+    minListingTime: 20
+    maxPrice: 100
+    minPrice: 50
     sellers: []
     dimensions: []
   '31':
     materialName: WEB
-    amount: 0
-    chance: 0.0
+   amount: 16
+    chance: 90
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 60
+    minListingTime: 20
+    maxPrice: 10
+    minPrice: 5
     sellers: []
     dimensions: []
   '32':
@@ -365,46 +364,46 @@ items:
     dimensions: []
   '34':
     materialName: PISTON_BASE
-    amount: 0
-    chance: 0.0
+   amount: 16
+    chance: 90
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 60
+    minListingTime: 20
+    maxPrice: 100
+    minPrice: 50
     sellers: []
     dimensions: []
   '35':
     materialName: PISTON_EXTENSION
-    amount: 0
-    chance: 0.0
+  amount: 16
+    chance: 90
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 60
+    minListingTime: 20
+    maxPrice: 100
+    minPrice: 50
     sellers: []
     dimensions: []
   '36':
     materialName: WOOL
-    amount: 0
-    chance: 0.0
+  amount: 16
+    chance: 90
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 60
+    minListingTime: 20
+    maxPrice: 30
+    minPrice: 10
     sellers: []
     dimensions: []
   '37':
     materialName: PISTON_MOVING_PIECE
-    amount: 0
-    chance: 0.0
+   amount: 16
+    chance: 90
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 60
+    minListingTime: 20
+    maxPrice: 100
+    minPrice: 50
     sellers: []
     dimensions: []
   '38':
@@ -453,112 +452,112 @@ items:
     dimensions: []
   '42':
     materialName: GOLD_BLOCK
-    amount: 0
-    chance: 0.0
+amount: 16
+    chance: 90
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 60
+    minListingTime: 20
+    maxPrice: 100
+    minPrice: 50
     sellers: []
     dimensions: []
   '43':
     materialName: IRON_BLOCK
-    amount: 0
-    chance: 0.0
+    amount: 16
+    chance: 90
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 60
+    minListingTime: 20
+    maxPrice: 100
+    minPrice: 50
     sellers: []
     dimensions: []
   '44':
     materialName: DOUBLE_STEP
-    amount: 0
-    chance: 0.0
+ amount: 16
+    chance: 90
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 60
+    minListingTime: 20
+    maxPrice: 60
+    minPrice: 50
     sellers: []
     dimensions: []
   '45':
     materialName: STEP
-    amount: 0
-    chance: 0.0
+   amount: 16
+    chance: 90
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 60
+    minListingTime: 20
+    maxPrice: 20
+    minPrice: 10
     sellers: []
     dimensions: []
   '46':
     materialName: BRICK
-    amount: 0
-    chance: 0.0
+amount: 16
+    chance: 90
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 60
+    minListingTime: 20
+    maxPrice: 35
+    minPrice: 30
     sellers: []
     dimensions: []
   '47':
     materialName: TNT
-    amount: 0
-    chance: 0.0
+  amount: 16
+    chance: 90
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 60
+    minListingTime: 20
+    maxPrice: 100
+    minPrice: 50
     sellers: []
     dimensions: []
   '48':
     materialName: BOOKSHELF
-    amount: 0
-    chance: 0.0
+amount: 16
+    chance: 90
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 60
+    minListingTime: 20
+    maxPrice: 40
+    minPrice: 25
     sellers: []
     dimensions: []
   '49':
     materialName: MOSSY_COBBLESTONE
-    amount: 0
-    chance: 0.0
+  amount: 16
+    chance: 90
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 60
+    minListingTime: 20
+    maxPrice: 100
+    minPrice: 50
     sellers: []
     dimensions: []
   '50':
     materialName: OBSIDIAN
-    amount: 0
-    chance: 0.0
+  amount: 16
+    chance: 90
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 60
+    minListingTime: 20
+    maxPrice: 100
+    minPrice: 50
     sellers: []
     dimensions: []
   '51':
     materialName: TORCH
-    amount: 0
-    chance: 0.0
+    amount: 17
+    chance: 90
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 60
+    minListingTime: 20
+    maxPrice: 40
+    minPrice: 36
     sellers: []
     dimensions: []
   '52':
@@ -2345,13 +2344,13 @@ items:
     dimensions: []
   '214':
     materialName: BREAD
-    amount: 0
-    chance: 0.0
+amount: 16
+    chance: 90
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 60
+    minListingTime: 20
+    maxPrice: 20
+    minPrice: 15
     sellers: []
     dimensions: []
   '215':
@@ -2598,13 +2597,13 @@ items:
     dimensions: []
   '237':
     materialName: GRILLED_PORK
-    amount: 0
-    chance: 0.0
+  amount: 16
+    chance: 90
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 60
+    minListingTime: 20
+    maxPrice: 30
+    minPrice: 10
     sellers: []
     dimensions: []
   '238':
@@ -2620,13 +2619,13 @@ items:
     dimensions: []
   '239':
     materialName: GOLDEN_APPLE
-    amount: 0
-    chance: 0.0
+  amount: 16
+    chance: 90
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 60
+    minListingTime: 20
+    maxPrice: 100
+    minPrice: 50
     sellers: []
     dimensions: []
   '240':
@@ -2928,13 +2927,13 @@ items:
     dimensions: []
   '267':
     materialName: COOKED_FISH
-    amount: 0
-    chance: 0.0
+amount: 16
+    chance: 90
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 60
+    minListingTime: 20
+    maxPrice: 15
+    minPrice: 10
     sellers: []
     dimensions: []
   '268':
@@ -3082,13 +3081,14 @@ items:
     dimensions: []
   '281':
     materialName: COOKED_BEEF
-    amount: 0
-    chance: 0.0
+  amount: 16
+    chance: 90
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 60
+    minListingTime: 20
+    maxPrice: 15
+    minPrice: 10
+
     sellers: []
     dimensions: []
   '282':
@@ -3104,24 +3104,26 @@ items:
     dimensions: []
   '283':
     materialName: COOKED_CHICKEN
-    amount: 0
-    chance: 0.0
+  amount: 16
+    chance: 90
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 60
+    minListingTime: 20
+    maxPrice: 15
+    minPrice: 10
+
     sellers: []
     dimensions: []
   '284':
     materialName: ROTTEN_FLESH
-    amount: 0
-    chance: 0.0
+amount: 16
+    chance: 90
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 60
+    minListingTime: 20
+    maxPrice: 15
+    minPrice: 10
+
     sellers: []
     dimensions: []
   '285':
@@ -26609,2378 +26611,2375 @@ items:
     dimensions: []
   '2419':
     materialName: FLANSMOD_ADVANCEDMETALCOCKPIT
-    amount: 0
-    chance: 0.0
+    amount: 1
+    chance: 95
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 100
+    minListingTime: 90
+    maxPrice: 16000
+    minPrice: 15000
     sellers: []
     dimensions: []
   '2420':
     materialName: FLANSMOD_ADVANCEDTANKBODY
-    amount: 0
-    chance: 0.0
+      amount: 1
+    chance: 95
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 100
+    minListingTime: 90
+    maxPrice: 16000
+    minPrice: 15000
     sellers: []
     dimensions: []
   '2421':
     materialName: FLANSMOD_BIPLANEWING
-    amount: 0
-    chance: 0.0
+    amount: 1
+    chance: 95
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 100
+    minListingTime: 90
+    maxPrice: 16000
+    minPrice: 15000
     sellers: []
     dimensions: []
   '2422':
     materialName: FLANSMOD_BOMBBAY
-    amount: 0
-    chance: 0.0
+      amount: 1
+    chance: 95
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 100
+    minListingTime: 90
+    maxPrice: 16000
+    minPrice: 15000
     sellers: []
     dimensions: []
   '2423':
     materialName: FLANSMOD_CATTRACK
-    amount: 0
-    chance: 0.0
+        amount: 1
+    chance: 95
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 100
+    minListingTime: 90
+    maxPrice: 16000
+    minPrice: 15000
     sellers: []
     dimensions: []
   '2424':
     materialName: FLANSMOD_CATTRACKPIECE
-    amount: 0
-    chance: 0.0
+        amount: 1
+    chance: 95
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 100
+    minListingTime: 90
+    maxPrice: 16000
+    minPrice: 15000
     sellers: []
     dimensions: []
   '2425':
     materialName: FLANSMOD_DENSEREDSTONECOIL
-    amount: 0
-    chance: 0.0
+    amount: 1
+    chance: 95
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 100
+    minListingTime: 90
+    maxPrice: 16000
+    minPrice: 15000
     sellers: []
     dimensions: []
   '2426':
     materialName: FLANSMOD_FUELCAN
-    amount: 0
-    chance: 0.0
+    amount: 1
+    chance: 95
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 100
+    minListingTime: 90
+    maxPrice: 2000
+    minPrice: 1500
     sellers: []
     dimensions: []
   '2427':
     materialName: FLANSMOD_HELICOPTERBLADE
-    amount: 0
-    chance: 0.0
+    amount: 5
+    chance: 95
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 100
+    minListingTime: 90
+    maxPrice: 16000
+    minPrice: 15000
     sellers: []
     dimensions: []
   '2428':
     materialName: FLANSMOD_HELICOPTERSKID
-    amount: 0
-    chance: 0.0
+        amount: 1
+    chance: 95
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 100
+    minListingTime: 90
+    maxPrice: 16000
+    minPrice: 15000
     sellers: []
     dimensions: []
   '2429':
     materialName: FLANSMOD_LARGEELECTRICENGINE
-    amount: 0
-    chance: 0.0
+     amount: 1
+    chance: 95
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 100
+    minListingTime: 90
+    maxPrice: 16000
+    minPrice: 15000
     sellers: []
     dimensions: []
   '2430':
     materialName: FLANSMOD_LARGEWHEEL
-    amount: 0
-    chance: 0.0
+       amount: 1
+    chance: 95
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 100
+    minListingTime: 90
+    maxPrice: 16000
+    minPrice: 15000
     sellers: []
     dimensions: []
   '2431':
     materialName: FLANSMOD_LIGHTNINGENGINE
-    amount: 0
-    chance: 0.0
+     amount: 1
+    chance: 95
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 100
+    minListingTime: 90
+    maxPrice: 16000
+    minPrice: 15000
     sellers: []
     dimensions: []
   '2432':
     materialName: FLANSMOD_METALCOCKPIT
-    amount: 0
-    chance: 0.0
+       amount: 1
+    chance: 95
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 100
+    minListingTime: 90
+    maxPrice: 16000
+    minPrice: 15000
     sellers: []
     dimensions: []
   '2433':
     materialName: FLANSMOD_METALNOSE
-    amount: 0
-    chance: 0.0
+    amount: 1
+    chance: 95
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 100
+    minListingTime: 90
+    maxPrice: 16000
+    minPrice: 15000
     sellers: []
     dimensions: []
   '2434':
     materialName: FLANSMOD_METALPROPELLER
-    amount: 0
-    chance: 0.0
+      amount: 1
+    chance: 95
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 100
+    minListingTime: 90
+    maxPrice: 16000
+    minPrice: 15000
     sellers: []
     dimensions: []
   '2435':
     materialName: FLANSMOD_METALTAIL
-    amount: 0
-    chance: 0.0
+      amount: 1
+    chance: 95
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 100
+    minListingTime: 90
+    maxPrice: 16000
+    minPrice: 15000
     sellers: []
     dimensions: []
   '2436':
     materialName: FLANSMOD_METALWINGSECTION
-    amount: 0
-    chance: 0.0
+       amount: 1
+    chance: 95
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 100
+    minListingTime: 90
+    maxPrice: 16000
+    minPrice: 15000
     sellers: []
     dimensions: []
   '2437':
     materialName: FLANSMOD_METALWINGSMALL
-    amount: 0
-    chance: 0.0
+    amount: 1
+    chance: 95
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 100
+    minListingTime: 90
+    maxPrice: 16000
+    minPrice: 15000
     sellers: []
     dimensions: []
   '2438':
     materialName: FLANSMOD_PASSENGERBAY
-    amount: 0
-    chance: 0.0
+     amount: 1
+    chance: 95
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 100
+    minListingTime: 90
+    maxPrice: 16000
+    minPrice: 15000
     sellers: []
     dimensions: []
   '2439':
     materialName: FLANSMOD_ENGINEPISTON
-    amount: 0
-    chance: 0.0
+    amount: 1
+    chance: 95
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 100
+    minListingTime: 90
+    maxPrice: 16000
+    minPrice: 15000
     sellers: []
     dimensions: []
   '2440':
     materialName: FLANSMOD_REDSTONECOIL
-    amount: 0
-    chance: 0.0
+     amount: 1
+    chance: 95
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 100
+    minListingTime: 90
+    maxPrice: 16000
+    minPrice: 15000
     sellers: []
     dimensions: []
   '2441':
     materialName: FLANSMOD_ROTARYENGINE
-    amount: 0
-    chance: 0.0
+    amount: 1
+    chance: 95
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 100
+    minListingTime: 90
+    maxPrice: 16000
+    minPrice: 15000
     sellers: []
     dimensions: []
   '2442':
     materialName: FLANSMOD_VEHICLESEAT
-    amount: 0
-    chance: 0.0
+     amount: 1
+    chance: 95
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 100
+    minListingTime: 90
+    maxPrice: 16000
+    minPrice: 15000
     sellers: []
     dimensions: []
   '2443':
     materialName: FLANSMOD_SMALLCHASSIS
-    amount: 0
-    chance: 0.0
+    amount: 1
+    chance: 95
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 100
+    minListingTime: 90
+    maxPrice: 16000
+    minPrice: 15000
     sellers: []
     dimensions: []
   '2444':
     materialName: FLANSMOD_SMALLELECTRICENGINE
-    amount: 0
-    chance: 0.0
+    amount: 1
+    chance: 95
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 100
+    minListingTime: 90
+    maxPrice: 16000
+    minPrice: 15000
     sellers: []
     dimensions: []
   '2445':
     materialName: FLANSMOD_WHEEL
-    amount: 0
-    chance: 0.0
+     amount: 1
+    chance: 95
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 100
+    minListingTime: 90
+    maxPrice: 1600
+    minPrice: 1500
     sellers: []
     dimensions: []
   '2446':
     materialName: FLANSMOD_TANKBARREL
-    amount: 0
-    chance: 0.0
+    amount: 1
+    chance: 95
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 100
+    minListingTime: 90
+    maxPrice: 16000
+    minPrice: 15000
     sellers: []
     dimensions: []
   '2447':
     materialName: FLANSMOD_TANKBODY
-    amount: 0
-    chance: 0.0
+     amount: 1
+    chance: 95
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 100
+    minListingTime: 90
+    maxPrice: 16000
+    minPrice: 15000
     sellers: []
     dimensions: []
   '2448':
     materialName: FLANSMOD_TANKTURRET
-    amount: 0
-    chance: 0.0
+     amount: 1
+    chance: 95
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 100
+    minListingTime: 90
+    maxPrice: 16000
+    minPrice: 15000
     sellers: []
     dimensions: []
   '2449':
     materialName: FLANSMOD_TRIPLANEWING
-    amount: 0
-    chance: 0.0
+      amount: 1
+    chance: 95
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 100
+    minListingTime: 90
+    maxPrice: 16000
+    minPrice: 15000
     sellers: []
     dimensions: []
   '2450':
     materialName: FLANSMOD_V4ENGINE
-    amount: 0
-    chance: 0.0
+      amount: 1
+    chance: 95
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 100
+    minListingTime: 90
+    maxPrice: 16000
+    minPrice: 15000
     sellers: []
     dimensions: []
   '2451':
     materialName: FLANSMOD_V6ENGINE
-    amount: 0
-    chance: 0.0
+       amount: 1
+    chance: 95
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 100
+    minListingTime: 90
+    maxPrice: 16000
+    minPrice: 15000
     sellers: []
     dimensions: []
   '2452':
     materialName: FLANSMOD_V8ENGINE
-    amount: 0
-    chance: 0.0
+    amount: 1
+    chance: 95
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 100
+    minListingTime: 90
+    maxPrice: 16000
+    minPrice: 15000
     sellers: []
     dimensions: []
   '2453':
     materialName: FLANSMOD_WOODENCOCKPIT
-    amount: 0
-    chance: 0.0
+       amount: 1
+    chance: 95
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 100
+    minListingTime: 90
+    maxPrice: 16000
+    minPrice: 15000
     sellers: []
     dimensions: []
   '2454':
     materialName: FLANSMOD_WOODENPROPELLER
-    amount: 0
-    chance: 0.0
+    amount: 1
+    chance: 95
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 100
+    minListingTime: 90
+    maxPrice: 16000
+    minPrice: 15000
     sellers: []
     dimensions: []
   '2455':
     materialName: FLANSMOD_WOODENTAIL
-    amount: 0
-    chance: 0.0
+    amount: 1
+    chance: 95
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 100
+    minListingTime: 90
+    maxPrice: 16000
+    minPrice: 15000
     sellers: []
     dimensions: []
   '2456':
     materialName: FLANSMOD_WOODENWING
-    amount: 0
-    chance: 0.0
+       amount: 1
+    chance: 95
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 100
+    minListingTime: 90
+    maxPrice: 16000
+    minPrice: 15000
     sellers: []
     dimensions: []
   '2457':
     materialName: FLANSMOD_CLAYANDSAND
-    amount: 0
-    chance: 0.0
+     amount: 1
+    chance: 95
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 100
+    minListingTime: 90
+    maxPrice: 16000
+    minPrice: 15000
     sellers: []
     dimensions: []
   '2458':
     materialName: FLANSMOD_FIBERGLASS
-    amount: 0
-    chance: 0.0
+    amount: 1
+    chance: 95
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 100
+    minListingTime: 90
+    maxPrice: 16000
+    minPrice: 15000
     sellers: []
     dimensions: []
   '2459':
     materialName: FLANSMOD_LARGEBOMB
-    amount: 0
-    chance: 0.0
+       amount: 1
+    chance: 95
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 100
+    minListingTime: 90
+    maxPrice: 16000
+    minPrice: 15000
     sellers: []
     dimensions: []
   '2460':
     materialName: FLANSMOD_NAPALM
-    amount: 0
-    chance: 0.0
+      amount: 1
+    chance: 95
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 100
+    minListingTime: 90
+    maxPrice: 16000
+    minPrice: 15000
     sellers: []
     dimensions: []
   '2461':
     materialName: FLANSMOD_SHELL
-    amount: 0
-    chance: 0.0
+      amount: 1
+    chance: 95
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 100
+    minListingTime: 90
+    maxPrice: 16000
+    minPrice: 15000
     sellers: []
     dimensions: []
   '2462':
     materialName: FLANSMOD_SMALLBOMB
-    amount: 0
-    chance: 0.0
+      amount: 1
+    chance: 95
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 100
+    minListingTime: 90
+    maxPrice: 16000
+    minPrice: 15000
     sellers: []
     dimensions: []
   '2463':
     materialName: FLANSMOD_ACRAMMO
-    amount: 0
-    chance: 0.0
+        amount: 15
+    chance: 95
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 100
+    minListingTime: 90
+    maxPrice: 1600
+    minPrice: 1500
     sellers: []
     dimensions: []
   '2464':
     materialName: FLANSMOD_AK47AMMO
-    amount: 0
-    chance: 0.0
+        amount: 15
+    chance: 95
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 100
+    minListingTime: 90
+    maxPrice: 1600
+    minPrice: 1500
     sellers: []
     dimensions: []
   '2465':
     materialName: FLANSMOD_AK74AMMO
-    amount: 0
-    chance: 0.0
+      amount: 15
+    chance: 95
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 100
+    minListingTime: 90
+    maxPrice: 1600
+    minPrice: 1500
     sellers: []
     dimensions: []
   '2466':
     materialName: FLANSMOD_AT4AMMO
-    amount: 0
-    chance: 0.0
+      amount: 15
+    chance: 95
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 100
+    minListingTime: 90
+    maxPrice: 1600
+    minPrice: 1500
     sellers: []
     dimensions: []
   '2467':
     materialName: FLANSMOD_AUGAMMO
-    amount: 0
-    chance: 0.0
+        amount: 15
+    chance: 95
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 100
+    minListingTime: 90
+    maxPrice: 1600
+    minPrice: 1500
     sellers: []
     dimensions: []
   '2468':
     materialName: FLANSMOD_BARRETTAMMO
-    amount: 0
-    chance: 0.0
+        amount: 15
+    chance: 95
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 100
+    minListingTime: 90
+    maxPrice: 1600
+    minPrice: 1500
     sellers: []
     dimensions: []
   '2469':
     materialName: FLANSMOD_BARRETTEXPLOSIVEAMMO
-    amount: 0
-    chance: 0.0
+    amount: 15
+    chance: 95
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
-    sellers: []
+    maxListingTime: 100
+    minListingTime: 90
+    maxPrice: 1600
+    minPrice: 1500    sellers: []
     dimensions: []
   '2470':
     materialName: FLANSMOD_BETACMAG
-    amount: 0
-    chance: 0.0
+    amount: 15
+    chance: 95
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 100
+    minListingTime: 90
+    maxPrice: 1600
+    minPrice: 1500
     sellers: []
     dimensions: []
   '2471':
     materialName: FLANSMOD_BIZONAMMO
-    amount: 0
-    chance: 0.0
+    amount: 15
+    chance: 95
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 100
+    minListingTime: 90
+    maxPrice: 1600
+    minPrice: 1500
     sellers: []
     dimensions: []
   '2472':
     materialName: FLANSMOD_DESERTEAGLEAMMO
-    amount: 0
-    chance: 0.0
+        amount: 15
+    chance: 95
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 100
+    minListingTime: 90
+    maxPrice: 1600
+    minPrice: 1500
     sellers: []
     dimensions: []
   '2473':
     materialName: FLANSMOD_DRAGUNOVAMMO
-    amount: 0
-    chance: 0.0
+      amount: 15
+    chance: 95
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 100
+    minListingTime: 90
+    maxPrice: 1600
+    minPrice: 1500
     sellers: []
     dimensions: []
   '2474':
     materialName: FLANSMOD_FNSCARAMMO
-    amount: 0
-    chance: 0.0
+    amount: 15
+    chance: 95
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 100
+    minListingTime: 90
+    maxPrice: 1600
+    minPrice: 1500
     sellers: []
     dimensions: []
   '2475':
     materialName: FLANSMOD_G36AMMO
-    amount: 0
-    chance: 0.0
+        amount: 15
+    chance: 95
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 100
+    minListingTime: 90
+    maxPrice: 1600
+    minPrice: 1500
     sellers: []
     dimensions: []
   '2476':
     materialName: FLANSMOD_G3AMMO
-    amount: 0
-    chance: 0.0
+     amount: 15
+    chance: 95
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 100
+    minListingTime: 90
+    maxPrice: 1600
+    minPrice: 1500
     sellers: []
     dimensions: []
   '2477':
     materialName: FLANSMOD_GLOCKAMMO
-    amount: 0
-    chance: 0.0
+    amount: 15
+    chance: 95
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 100
+    minListingTime: 90
+    maxPrice: 1600
+    minPrice: 1500
     sellers: []
     dimensions: []
   '2478':
     materialName: FLANSMOD_L86AMMO
-    amount: 0
-    chance: 0.0
+    amount: 15
+    chance: 95
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 100
+    minListingTime: 90
+    maxPrice: 1600
+    minPrice: 1500
     sellers: []
     dimensions: []
   '2479':
     materialName: FLANSMOD_L96AMMO
-    amount: 0
-    chance: 0.0
+    amount: 15
+    chance: 95
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 100
+    minListingTime: 90
+    maxPrice: 1600
+    minPrice: 1500
     sellers: []
     dimensions: []
   '2480':
     materialName: FLANSMOD_M1014AMMO
-    amount: 0
-    chance: 0.0
+     amount: 15
+    chance: 95
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 100
+    minListingTime: 90
+    maxPrice: 1600
+    minPrice: 1500
     sellers: []
     dimensions: []
   '2481':
     materialName: FLANSMOD_M14AMMO
-    amount: 0
-    chance: 0.0
+        amount: 15
+    chance: 95
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 100
+    minListingTime: 90
+    maxPrice: 1600
+    minPrice: 1500
     sellers: []
     dimensions: []
   '2482':
     materialName: FLANSMOD_M16A4AMMO
-    amount: 0
-    chance: 0.0
+      amount: 15
+    chance: 95
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 100
+    minListingTime: 90
+    maxPrice: 1600
+    minPrice: 1500
     sellers: []
     dimensions: []
   '2483':
     materialName: FLANSMOD_M1887AMMO
-    amount: 0
-    chance: 0.0
+       amount: 15
+    chance: 95
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 100
+    minListingTime: 90
+    maxPrice: 1600
+    minPrice: 1500
     sellers: []
     dimensions: []
   '2484':
     materialName: FLANSMOD_M1911AMMO
-    amount: 0
-    chance: 0.0
+    amount: 15
+    chance: 95
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 100
+    minListingTime: 90
+    maxPrice: 1600
+    minPrice: 1500
     sellers: []
     dimensions: []
   '2485':
     materialName: FLANSMOD_M21AMMO
-    amount: 0
-    chance: 0.0
+    amount: 15
+    chance: 95
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 100
+    minListingTime: 90
+    maxPrice: 1600
+    minPrice: 1500
     sellers: []
     dimensions: []
   '2486':
     materialName: FLANSMOD_M249AMMO
-    amount: 0
-    chance: 0.0
+        amount: 15
+    chance: 95
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 100
+    minListingTime: 90
+    maxPrice: 1600
+    minPrice: 1500
     sellers: []
     dimensions: []
   '2487':
     materialName: FLANSMOD_M40A3AMMO
-    amount: 0
-    chance: 0.0
+     amount: 15
+    chance: 95
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 100
+    minListingTime: 90
+    maxPrice: 1600
+    minPrice: 1500
     sellers: []
     dimensions: []
   '2488':
     materialName: FLANSMOD_M60AMMO
-    amount: 0
-    chance: 0.0
+        amount: 15
+    chance: 95
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 100
+    minListingTime: 90
+    maxPrice: 1600
+    minPrice: 1500
     sellers: []
     dimensions: []
   '2489':
     materialName: FLANSMOD_M72LAWAMMO
-    amount: 0
-    chance: 0.0
+    amount: 15
+    chance: 95
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 100
+    minListingTime: 90
+    maxPrice: 1600
+    minPrice: 1500
     sellers: []
     dimensions: []
   '2490':
     materialName: FLANSMOD_M9AMMO
-    amount: 0
-    chance: 0.0
+       amount: 15
+    chance: 95
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 100
+    minListingTime: 90
+    maxPrice: 1600
+    minPrice: 1500
     sellers: []
     dimensions: []
   '2491':
     materialName: FLANSMOD_MAKAROVAMMO
-    amount: 0
-    chance: 0.0
+       amount: 15
+    chance: 95
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 100
+    minListingTime: 90
+    maxPrice: 1600
+    minPrice: 1500
     sellers: []
     dimensions: []
   '2492':
     materialName: FLANSMOD_MIM23AMMO
-    amount: 0
-    chance: 0.0
+     amount: 15
+    chance: 95
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 100
+    minListingTime: 90
+    maxPrice: 1600
+    minPrice: 1500
     sellers: []
     dimensions: []
   '2493':
     materialName: FLANSMOD_MINIGUNAMMO
-    amount: 0
-    chance: 0.0
+     amount: 15
+    chance: 95
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 100
+    minListingTime: 90
+    maxPrice: 1600
+    minPrice: 1500
     sellers: []
     dimensions: []
   '2494':
     materialName: FLANSMOD_MINIGUNEXPLOSIVEAMMO
-    amount: 0
-    chance: 0.0
+       amount: 15
+    chance: 95
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 100
+    minListingTime: 90
+    maxPrice: 1600
+    minPrice: 1500
     sellers: []
     dimensions: []
   '2495':
     materialName: FLANSMOD_MK4ROCKET
-    amount: 0
-    chance: 0.0
+       amount: 15
+    chance: 95
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 100
+    minListingTime: 90
+    maxPrice: 1600
+    minPrice: 1500
     sellers: []
     dimensions: []
   '2496':
     materialName: FLANSMOD_MP5AMMO
-    amount: 0
-    chance: 0.0
+     amount: 15
+    chance: 95
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 100
+    minListingTime: 90
+    maxPrice: 1600
+    minPrice: 1500
     sellers: []
     dimensions: []
   '2497':
     materialName: FLANSMOD_MTARAMMO
-    amount: 0
-    chance: 0.0
+    amount: 15
+    chance: 95
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 100
+    minListingTime: 90
+    maxPrice: 1600
+    minPrice: 1500
     sellers: []
     dimensions: []
   '2498':
     materialName: FLANSMOD_P90AMMO
-    amount: 0
-    chance: 0.0
+        amount: 15
+    chance: 95
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 100
+    minListingTime: 90
+    maxPrice: 1600
+    minPrice: 1500
     sellers: []
     dimensions: []
   '2499':
     materialName: FLANSMOD_PANZERFAUST3AMMO
-    amount: 0
-    chance: 0.0
+      amount: 15
+    chance: 95
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 100
+    minListingTime: 90
+    maxPrice: 1600
+    minPrice: 1500
     sellers: []
     dimensions: []
   '2500':
     materialName: FLANSMOD_R700AMMO
-    amount: 0
-    chance: 0.0
+      amount: 15
+    chance: 95
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 100
+    minListingTime: 90
+    maxPrice: 1600
+    minPrice: 1500
     sellers: []
     dimensions: []
   '2501':
     materialName: FLANSMOD_R870AMMO
-    amount: 0
-    chance: 0.0
+        amount: 15
+    chance: 95
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 100
+    minListingTime: 90
+    maxPrice: 1600
+    minPrice: 1500
     sellers: []
     dimensions: []
   '2502':
     materialName: FLANSMOD_RPDAMMO
-    amount: 0
-    chance: 0.0
+       amount: 15
+    chance: 95
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 100
+    minListingTime: 90
+    maxPrice: 1600
+    minPrice: 1500
     sellers: []
     dimensions: []
   '2503':
     materialName: FLANSMOD_RPGAMMO
-    amount: 0
-    chance: 0.0
+      amount: 15
+    chance: 95
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 100
+    minListingTime: 90
+    maxPrice: 1600
+    minPrice: 1500
     sellers: []
     dimensions: []
   '2504':
     materialName: FLANSMOD_RPKAMMO
-    amount: 0
-    chance: 0.0
+      amount: 15
+    chance: 95
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 100
+    minListingTime: 90
+    maxPrice: 1600
+    minPrice: 1500
     sellers: []
     dimensions: []
   '2505':
     materialName: FLANSMOD_SG550AMMO
-    amount: 0
-    chance: 0.0
+    amount: 15
+    chance: 95
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 100
+    minListingTime: 90
+    maxPrice: 1600
+    minPrice: 1500
     sellers: []
     dimensions: []
   '2506':
     materialName: FLANSMOD_SIGP226AMMO
-    amount: 0
-    chance: 0.0
+    amount: 15
+    chance: 95
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 100
+    minListingTime: 90
+    maxPrice: 1600
+    minPrice: 1500
     sellers: []
     dimensions: []
   '2507':
     materialName: FLANSMOD_SKORPIONAMMO
-    amount: 0
-    chance: 0.0
+      amount: 15
+    chance: 95
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 100
+    minListingTime: 90
+    maxPrice: 1600
+    minPrice: 1500
     sellers: []
     dimensions: []
   '2508':
     materialName: FLANSMOD_SPASAMMO
-    amount: 0
-    chance: 0.0
+     amount: 15
+    chance: 95
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 100
+    minListingTime: 90
+    maxPrice: 1600
+    minPrice: 1500
     sellers: []
     dimensions: []
   '2509':
     materialName: FLANSMOD_STINGERAMMO
-    amount: 0
-    chance: 0.0
+     amount: 15
+    chance: 95
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 100
+    minListingTime: 90
+    maxPrice: 1600
+    minPrice: 1500
     sellers: []
     dimensions: []
   '2510':
     materialName: FLANSMOD_USPAMMO
-    amount: 0
-    chance: 0.0
+    amount: 15
+    chance: 95
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 100
+    minListingTime: 90
+    maxPrice: 1600
+    minPrice: 1500
     sellers: []
     dimensions: []
   '2511':
     materialName: FLANSMOD_USPPOISONAMMO
-    amount: 0
-    chance: 0.0
+    amount: 15
+    chance: 95
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 100
+    minListingTime: 90
+    maxPrice: 1600
+    minPrice: 1500
     sellers: []
     dimensions: []
   '2512':
     materialName: FLANSMOD_UZIAMMO
-    amount: 0
-    chance: 0.0
+    amount: 15
+    chance: 95
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 100
+    minListingTime: 90
+    maxPrice: 1600
+    minPrice: 1500
     sellers: []
     dimensions: []
   '2513':
     materialName: FLANSMOD_W1200AMMO
-    amount: 0
-    chance: 0.0
+    amount: 15
+    chance: 95
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 100
+    minListingTime: 90
+    maxPrice: 1600
+    minPrice: 1500
     sellers: []
     dimensions: []
   '2514':
     materialName: FLANSMOD_W1200INCENDIARYAMMO
-    amount: 0
-    chance: 0.0
+    amount: 15
+    chance: 95
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 100
+    minListingTime: 90
+    maxPrice: 1600
+    minPrice: 1500
     sellers: []
     dimensions: []
   '2515':
     materialName: FLANSMOD_FLANMW4XSCOPE
-    amount: 0
-    chance: 0.0
+    amount: 15
+    chance: 95
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 100
+    minListingTime: 90
+    maxPrice: 1600
+    minPrice: 1500
     sellers: []
     dimensions: []
   '2516':
     materialName: FLANSMOD_FLANMWACOG
-    amount: 0
-    chance: 0.0
+    amount: 15
+    chance: 95
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 100
+    minListingTime: 90
+    maxPrice: 1600
+    minPrice: 1500
     sellers: []
     dimensions: []
   '2517':
     materialName: FLANSMOD_FLANMWBURSTFIRE
-    amount: 0
-    chance: 0.0
+    amount: 15
+    chance: 95
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 100
+    minListingTime: 90
+    maxPrice: 1600
+    minPrice: 1500
     sellers: []
     dimensions: []
   '2518':
     materialName: FLANSMOD_FLANMWFLASHLIGHT
-    amount: 0
-    chance: 0.0
+    amount: 15
+    chance: 95
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 100
+    minListingTime: 90
+    maxPrice: 1600
+    minPrice: 1500
     sellers: []
     dimensions: []
   '2519':
     materialName: FLANSMOD_FLANMWFOREGRIP
-    amount: 0
-    chance: 0.0
+       amount: 15
+    chance: 95
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 100
+    minListingTime: 90
+    maxPrice: 1600
+    minPrice: 1500
     sellers: []
     dimensions: []
   '2520':
     materialName: FLANSMOD_FLANMWAUTOFIRE
-    amount: 0
-    chance: 0.0
+     amount: 15
+    chance: 95
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 100
+    minListingTime: 90
+    maxPrice: 1600
+    minPrice: 1500
     sellers: []
     dimensions: []
   '2521':
     materialName: FLANSMOD_FLANMWREDDOT
-    amount: 0
-    chance: 0.0
+    amount: 15
+    chance: 95
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 100
+    minListingTime: 90
+    maxPrice: 1600
+    minPrice: 1500
     sellers: []
     dimensions: []
   '2522':
     materialName: FLANSMOD_FLANMWSILENCER
-    amount: 0
-    chance: 0.0
+    amount: 15
+    chance: 95
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 100
+    minListingTime: 90
+    maxPrice: 1600
+    minPrice: 1500
     sellers: []
     dimensions: []
   '2523':
     materialName: FLANSMOD_FLANMWSINGLEFIRE
-    amount: 0
-    chance: 0.0
+     amount: 15
+    chance: 95
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 100
+    minListingTime: 90
+    maxPrice: 1600
+    minPrice: 1500
     sellers: []
     dimensions: []
   '2524':
     materialName: FLANSMOD_MWAMMOBAG
-    amount: 0
-    chance: 0.0
+    amount: 15
+    chance: 95
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 100
+    minListingTime: 90
+    maxPrice: 1600
+    minPrice: 1500
     sellers: []
     dimensions: []
   '2525':
     materialName: FLANSMOD_C4
-    amount: 0
-    chance: 0.0
+       amount: 15
+    chance: 95
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 100
+    minListingTime: 90
+    maxPrice: 1600
+    minPrice: 1500
     sellers: []
     dimensions: []
   '2526':
     materialName: FLANSMOD_CLAYMORE
-    amount: 0
-    chance: 0.0
+      amount: 15
+    chance: 95
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 100
+    minListingTime: 90
+    maxPrice: 1600
+    minPrice: 1500
     sellers: []
     dimensions: []
   '2527':
     materialName: FLANSMOD_GRENADELAUNCHERAMMO
-    amount: 0
-    chance: 0.0
+    amount: 15
+    chance: 95
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 100
+    minListingTime: 90
+    maxPrice: 1600
+    minPrice: 1500
     sellers: []
     dimensions: []
   '2528':
     materialName: FLANSMOD_GRENADELAUNCHERBOUNCYAMMO
-    amount: 0
-    chance: 0.0
+     amount: 15
+    chance: 95
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 100
+    minListingTime: 90
+    maxPrice: 1600
+    minPrice: 1500
     sellers: []
     dimensions: []
   '2529':
     materialName: FLANSMOD_GRENADELAUNCHERGASAMMO
-    amount: 0
-    chance: 0.0
+     amount: 15
+    chance: 95
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 100
+    minListingTime: 90
+    maxPrice: 1600
+    minPrice: 1500
     sellers: []
     dimensions: []
   '2530':
     materialName: FLANSMOD_GRENADELAUNCHERINCENDIARYAMMO
-    amount: 0
-    chance: 0.0
+    amount: 15
+    chance: 95
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 100
+    minListingTime: 90
+    maxPrice: 1600
+    minPrice: 1500
     sellers: []
     dimensions: []
   '2531':
     materialName: FLANSMOD_M67
-    amount: 0
-    chance: 0.0
+    amount: 15
+    chance: 95
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 100
+    minListingTime: 90
+    maxPrice: 1600
+    minPrice: 1500
     sellers: []
     dimensions: []
   '2532':
     materialName: FLANSMOD_MWMEDICBAG
-    amount: 0
-    chance: 0.0
+    amount: 15
+    chance: 95
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 100
+    minListingTime: 90
+    maxPrice: 16000
+    minPrice: 10000
     sellers: []
     dimensions: []
   '2533':
     materialName: FLANSMOD_MOLOTOVCOCKTAIL
-    amount: 0
-    chance: 0.0
+      amount: 15
+    chance: 95
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 100
+    minListingTime: 90
+    maxPrice: 1600
+    minPrice: 1500
     sellers: []
     dimensions: []
   '2534':
     materialName: FLANSMOD_ACR
-    amount: 0
-    chance: 0.0
+        amount: 1
+    chance: 95
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 100
+    minListingTime: 90
+    maxPrice: 1600
+    minPrice: 1500
     sellers: []
     dimensions: []
   '2535':
     materialName: FLANSMOD_AK47
-    amount: 0
-    chance: 0.0
+     amount: 1
+    chance: 95
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 100
+    minListingTime: 90
+    maxPrice: 1600
+    minPrice: 1500
     sellers: []
     dimensions: []
   '2536':
     materialName: FLANSMOD_AK74
-    amount: 0
-    chance: 0.0
+   amount: 1
+    chance: 95
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 100
+    minListingTime: 90
+    maxPrice: 1600
+    minPrice: 1500
     sellers: []
     dimensions: []
   '2537':
     materialName: FLANSMOD_AT4
-    amount: 0
-    chance: 0.0
+    amount: 1
+    chance: 95
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 100
+    minListingTime: 90
+    maxPrice: 1600
+    minPrice: 1500
     sellers: []
     dimensions: []
   '2538':
     materialName: FLANSMOD_AUG
-    amount: 0
-    chance: 0.0
+  amount: 1
+    chance: 95
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 100
+    minListingTime: 90
+    maxPrice: 1600
+    minPrice: 1500
     sellers: []
     dimensions: []
   '2539':
     materialName: FLANSMOD_BARRETT
-    amount: 0
-    chance: 0.0
+  amount: 1
+    chance: 95
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 100
+    minListingTime: 90
+    maxPrice: 1600
+    minPrice: 1500
     sellers: []
     dimensions: []
   '2540':
     materialName: FLANSMOD_MWBINOCULARS
-    amount: 0
-    chance: 0.0
+  amount: 1
+    chance: 95
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 100
+    minListingTime: 90
+    maxPrice: 1600
+    minPrice: 1500
     sellers: []
     dimensions: []
   '2541':
     materialName: FLANSMOD_BIZON
-    amount: 0
-    chance: 0.0
+  amount: 1
+    chance: 95
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 100
+    minListingTime: 90
+    maxPrice: 1600
+    minPrice: 1500
     sellers: []
     dimensions: []
   '2542':
     materialName: FLANSMOD_DESERTEAGLE
-    amount: 0
-    chance: 0.0
+  amount: 1
+    chance: 95
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 100
+    minListingTime: 90
+    maxPrice: 1600
+    minPrice: 1500
     sellers: []
     dimensions: []
   '2543':
     materialName: FLANSMOD_DRAGUNOV
-    amount: 0
-    chance: 0.0
+  amount: 1
+    chance: 95
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 100
+    minListingTime: 90
+    maxPrice: 1600
+    minPrice: 1500
     sellers: []
     dimensions: []
   '2544':
     materialName: FLANSMOD_FNSCAR
-    amount: 0
-    chance: 0.0
+  amount: 1
+    chance: 95
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 100
+    minListingTime: 90
+    maxPrice: 1600
+    minPrice: 1500
     sellers: []
     dimensions: []
   '2545':
     materialName: FLANSMOD_G3
-    amount: 0
-    chance: 0.0
+  amount: 1
+    chance: 95
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 100
+    minListingTime: 90
+    maxPrice: 1600
+    minPrice: 1500
     sellers: []
     dimensions: []
   '2546':
     materialName: FLANSMOD_G36
-    amount: 0
-    chance: 0.0
+  amount: 1
+    chance: 95
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 100
+    minListingTime: 90
+    maxPrice: 1600
+    minPrice: 1500
     sellers: []
     dimensions: []
   '2547':
     materialName: FLANSMOD_GL1
-    amount: 0
-    chance: 0.0
+  amount: 1
+    chance: 95
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 100
+    minListingTime: 90
+    maxPrice: 1600
+    minPrice: 1500
     sellers: []
     dimensions: []
   '2548':
     materialName: FLANSMOD_GL6
-    amount: 0
-    chance: 0.0
+  amount: 1
+    chance: 95
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 100
+    minListingTime: 90
+    maxPrice: 1600
+    minPrice: 1500
     sellers: []
     dimensions: []
   '2549':
     materialName: FLANSMOD_GLOCK
-    amount: 0
-    chance: 0.0
+  amount: 1
+    chance: 95
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 100
+    minListingTime: 90
+    maxPrice: 1600
+    minPrice: 1500
     sellers: []
     dimensions: []
   '2550':
     materialName: FLANSMOD_GOLDDESERTEAGLE
-    amount: 0
-    chance: 0.0
+  amount: 1
+    chance: 95
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 100
+    minListingTime: 90
+    maxPrice: 1600
+    minPrice: 1500
     sellers: []
     dimensions: []
   '2551':
     materialName: FLANSMOD_MWKNIFE
-    amount: 0
-    chance: 0.0
+  amount: 1
+    chance: 95
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 100
+    minListingTime: 90
+    maxPrice: 1600
+    minPrice: 1500
     sellers: []
     dimensions: []
   '2552':
     materialName: FLANSMOD_L86
-    amount: 0
-    chance: 0.0
+  amount: 1
+    chance: 95
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 100
+    minListingTime: 90
+    maxPrice: 1600
+    minPrice: 1500
     sellers: []
     dimensions: []
   '2553':
     materialName: FLANSMOD_L96
-    amount: 0
-    chance: 0.0
+  amount: 1
+    chance: 95
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 100
+    minListingTime: 90
+    maxPrice: 1600
+    minPrice: 1500
     sellers: []
     dimensions: []
   '2554':
     materialName: FLANSMOD_M1014
-    amount: 0
-    chance: 0.0
+   amount: 1
+    chance: 95
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 100
+    minListingTime: 90
+    maxPrice: 1600
+    minPrice: 1500
     sellers: []
     dimensions: []
   '2555':
     materialName: FLANSMOD_M14
-    amount: 0
-    chance: 0.0
+     amount: 1
+    chance: 95
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 100
+    minListingTime: 90
+    maxPrice: 1600
+    minPrice: 1500
     sellers: []
     dimensions: []
   '2556':
     materialName: FLANSMOD_M16A4
-    amount: 0
-    chance: 0.0
+    amount: 1
+    chance: 95
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 100
+    minListingTime: 90
+    maxPrice: 1600
+    minPrice: 1500
     sellers: []
     dimensions: []
   '2557':
     materialName: FLANSMOD_M1887
-    amount: 0
-    chance: 0.0
+  amount: 1
+    chance: 95
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 100
+    minListingTime: 90
+    maxPrice: 1600
+    minPrice: 1500
     sellers: []
     dimensions: []
   '2558':
     materialName: FLANSMOD_M1911
-    amount: 0
-    chance: 0.0
+   amount: 1
+    chance: 95
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 100
+    minListingTime: 90
+    maxPrice: 1600
+    minPrice: 1500
     sellers: []
     dimensions: []
   '2559':
     materialName: FLANSMOD_M21
-    amount: 0
-    chance: 0.0
+    amount: 1
+    chance: 95
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 100
+    minListingTime: 90
+    maxPrice: 1600
+    minPrice: 1500
     sellers: []
     dimensions: []
   '2560':
     materialName: FLANSMOD_M249
-    amount: 0
-    chance: 0.0
+   amount: 1
+    chance: 95
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 100
+    minListingTime: 90
+    maxPrice: 1600
+    minPrice: 1500
     sellers: []
     dimensions: []
   '2561':
     materialName: FLANSMOD_M40A3
-    amount: 0
-    chance: 0.0
+   amount: 1
+    chance: 95
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 100
+    minListingTime: 90
+    maxPrice: 1600
+    minPrice: 1500
     sellers: []
     dimensions: []
   '2562':
     materialName: FLANSMOD_M60
-    amount: 0
-    chance: 0.0
+   amount: 1
+    chance: 95
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 100
+    minListingTime: 90
+    maxPrice: 1600
+    minPrice: 1500
     sellers: []
     dimensions: []
   '2563':
     materialName: FLANSMOD_M72LAW
-    amount: 0
-    chance: 0.0
+  amount: 1
+    chance: 95
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 100
+    minListingTime: 90
+    maxPrice: 1600
+    minPrice: 1500
     sellers: []
     dimensions: []
   '2564':
     materialName: FLANSMOD_M9
-    amount: 0
-    chance: 0.0
+  amount: 1
+    chance: 95
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 100
+    minListingTime: 90
+    maxPrice: 1600
+    minPrice: 1500
     sellers: []
     dimensions: []
   '2565':
     materialName: FLANSMOD_MAKAROV
-    amount: 0
-    chance: 0.0
+    amount: 1
+    chance: 95
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 100
+    minListingTime: 90
+    maxPrice: 1600
+    minPrice: 1500
     sellers: []
     dimensions: []
   '2566':
     materialName: FLANSMOD_MINIGUN
-    amount: 0
-    chance: 0.0
+  amount: 1
+    chance: 95
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 100
+    minListingTime: 90
+    maxPrice: 1600
+    minPrice: 1500
     sellers: []
     dimensions: []
   '2567':
     materialName: FLANSMOD_MP5
-    amount: 0
-    chance: 0.0
+  amount: 1
+    chance: 95
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 100
+    minListingTime: 90
+    maxPrice: 1600
+    minPrice: 1500
     sellers: []
     dimensions: []
   '2568':
     materialName: FLANSMOD_MTAR
-    amount: 0
-    chance: 0.0
+    amount: 1
+    chance: 95
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 100
+    minListingTime: 90
+    maxPrice: 1600
+    minPrice: 1500
     sellers: []
     dimensions: []
   '2569':
     materialName: FLANSMOD_P90
-    amount: 0
-    chance: 0.0
+    amount: 1
+    chance: 95
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 100
+    minListingTime: 90
+    maxPrice: 1600
+    minPrice: 1500
     sellers: []
     dimensions: []
   '2570':
     materialName: FLANSMOD_PANZERFAUST3
-    amount: 0
-    chance: 0.0
+    amount: 1
+    chance: 95
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 100
+    minListingTime: 90
+    maxPrice: 1600
+    minPrice: 1500
     sellers: []
     dimensions: []
   '2571':
     materialName: FLANSMOD_R700
-    amount: 0
-    chance: 0.0
+    amount: 1
+    chance: 95
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 100
+    minListingTime: 90
+    maxPrice: 1600
+    minPrice: 1500
     sellers: []
     dimensions: []
   '2572':
     materialName: FLANSMOD_R870
-    amount: 0
-    chance: 0.0
+   amount: 1
+    chance: 95
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 100
+    minListingTime: 90
+    maxPrice: 1600
+    minPrice: 1500
     sellers: []
     dimensions: []
   '2573':
     materialName: FLANSMOD_MWRIOTSHIELD
-    amount: 0
-    chance: 0.0
+   amount: 1
+    chance: 95
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 100
+    minListingTime: 90
+    maxPrice: 1600
+    minPrice: 1500
     sellers: []
     dimensions: []
   '2574':
     materialName: FLANSMOD_RPD
-    amount: 0
-    chance: 0.0
+  amount: 1
+    chance: 95
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 100
+    minListingTime: 90
+    maxPrice: 1600
+    minPrice: 1500
     sellers: []
     dimensions: []
   '2575':
     materialName: FLANSMOD_RPG
-    amount: 0
-    chance: 0.0
+  amount: 1
+    chance: 95
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
-    sellers: []
+    maxListingTime: 100
+    minListingTime: 90
+    maxPrice: 1600
+    minPrice: 1500
     dimensions: []
   '2576':
     materialName: FLANSMOD_RPK
-    amount: 0
-    chance: 0.0
+  amount: 1
+    chance: 95
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 100
+    minListingTime: 90
+    maxPrice: 1600
+    minPrice: 1500
     sellers: []
     dimensions: []
   '2577':
     materialName: FLANSMOD_SG550
-    amount: 0
-    chance: 0.0
+  amount: 1
+    chance: 95
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 100
+    minListingTime: 90
+    maxPrice: 1600
+    minPrice: 1500
     sellers: []
     dimensions: []
   '2578':
     materialName: FLANSMOD_SIGP226
-    amount: 0
-    chance: 0.0
+  amount: 1
+    chance: 95
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 100
+    minListingTime: 90
+    maxPrice: 1600
+    minPrice: 1500
     sellers: []
     dimensions: []
   '2579':
     materialName: FLANSMOD_SKORPION
-    amount: 0
-    chance: 0.0
+  amount: 1
+    chance: 95
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 100
+    minListingTime: 90
+    maxPrice: 1600
+    minPrice: 1500
     sellers: []
     dimensions: []
   '2580':
     materialName: FLANSMOD_SPAS
-    amount: 0
-    chance: 0.0
+  amount: 1
+    chance: 95
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 100
+    minListingTime: 90
+    maxPrice: 1600
+    minPrice: 1500
     sellers: []
     dimensions: []
   '2581':
     materialName: FLANSMOD_STINGER
-    amount: 0
-    chance: 0.0
+  amount: 1
+    chance: 95
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 100
+    minListingTime: 90
+    maxPrice: 1600
+    minPrice: 1500
     sellers: []
     dimensions: []
   '2582':
     materialName: FLANSMOD_USP
-    amount: 0
-    chance: 0.0
+  amount: 1
+    chance: 95
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 100
+    minListingTime: 90
+    maxPrice: 1600
+    minPrice: 1500
     sellers: []
     dimensions: []
   '2583':
     materialName: FLANSMOD_UZI
-    amount: 0
-    chance: 0.0
+  amount: 1
+    chance: 95
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
-    sellers: []
+    maxListingTime: 100
+    minListingTime: 90
+    maxPrice: 1600
+    minPrice: 1500    sellers: []
     dimensions: []
   '2584':
     materialName: FLANSMOD_W1200
-    amount: 0
-    chance: 0.0
+  amount: 1
+    chance: 95
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 100
+    minListingTime: 90
+    maxPrice: 1600
+    minPrice: 1500
     sellers: []
     dimensions: []
   '2585':
     materialName: FLANSMOD_SENTRYGUN
-    amount: 0
-    chance: 0.0
+  amount: 1
+    chance: 95
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 100
+    minListingTime: 90
+    maxPrice: 1600
+    minPrice: 1500
     sellers: []
     dimensions: []
   '2586':
     materialName: FLANSMOD_ABRAMS
-    amount: 0
-    chance: 0.0
+  amount: 1
+    chance: 95
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 100
+    minListingTime: 90
+    maxPrice: 1600
+    minPrice: 1500
     sellers: []
     dimensions: []
   '2587':
     materialName: FLANSMOD_CHALLYII
-    amount: 0
-    chance: 0.0
+  amount: 1
+    chance: 95
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 100
+    minListingTime: 90
+    maxPrice: 1600
+    minPrice: 1500
     sellers: []
     dimensions: []
   '2588':
     materialName: FLANSMOD_MIM23
-    amount: 0
-    chance: 0.0
+  amount: 1
+    chance: 95
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 100
+    minListingTime: 90
+    maxPrice: 1600
+    minPrice: 1500
     sellers: []
     dimensions: []
   '2589':
     materialName: FLANSMOD_T90
-    amount: 0
-    chance: 0.0
+  amount: 1
+    chance: 95
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 100
+    minListingTime: 90
+    maxPrice: 1600
+    minPrice: 1500
     sellers: []
     dimensions: []
   '2590':
     materialName: FLANSMOD_CHINOOK
-    amount: 0
-    chance: 0.0
+  amount: 1
+    chance: 95
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 100
+    minListingTime: 90
+    maxPrice: 1600
+    minPrice: 1500
     sellers: []
     dimensions: []
   '2591':
     materialName: FLANSMOD_COBRA
-    amount: 0
-    chance: 0.0
+  amount: 1
+    chance: 95
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 100
+    minListingTime: 90
+    maxPrice: 1600
+    minPrice: 1500
     sellers: []
     dimensions: []
   '2592':
     materialName: FLANSMOD_F22
-    amount: 0
-    chance: 0.0
+  amount: 1
+    chance: 95
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 100
+    minListingTime: 90
+    maxPrice: 1600
+    minPrice: 1500
     sellers: []
     dimensions: []
   '2593':
     materialName: FLANSMOD_HIND
-    amount: 0
-    chance: 0.0
+    amount: 1
+    chance: 95
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 100
+    minListingTime: 90
+    maxPrice: 1600
+    minPrice: 1500
     sellers: []
     dimensions: []
   '2594':
     materialName: FLANSMOD_SU25
-    amount: 0
-    chance: 0.0
+  amount: 1
+    chance: 95
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 100
+    minListingTime: 90
+    maxPrice: 1600
+    minPrice: 1500
     sellers: []
     dimensions: []
   '2595':
     materialName: FLANSMOD_TORNADO
-    amount: 0
-    chance: 0.0
+  amount: 1
+    chance: 95
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 100
+    minListingTime: 90
+    maxPrice: 1600
+    minPrice: 1500
     sellers: []
     dimensions: []
   '2596':
     materialName: FLANSMOD_BLOWTORCH
-    amount: 0
-    chance: 0.0
+    amount: 1
+    chance: 95
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 100
+    minListingTime: 90
+    maxPrice: 1600
+    minPrice: 1500
     sellers: []
     dimensions: []
   '2597':
     materialName: FLANSMOD_C4REMOTE
-    amount: 0
-    chance: 0.0
+  amount: 1
+    chance: 95
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 100
+    minListingTime: 90
+    maxPrice: 1600
+    minPrice: 1500
     sellers: []
     dimensions: []
   '2598':
     materialName: FLANSMOD_MWMEDKIT
-    amount: 0
-    chance: 0.0
+   amount: 1
+    chance: 95
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 100
+    minListingTime: 90
+    maxPrice: 1600
+    minPrice: 1500
     sellers: []
     dimensions: []
   '2599':
     materialName: FLANSMOD_MWPARACHUTE
-    amount: 0
-    chance: 0.0
+  amount: 1
+    chance: 95
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 100
+    minListingTime: 90
+    maxPrice: 1600
+    minPrice: 1500
     sellers: []
     dimensions: []
   '2600':
     materialName: FLANSMOD_BALACLAVA
-    amount: 0
-    chance: 0.0
+  amount: 1
+    chance: 95
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 100
+    minListingTime: 90
+    maxPrice: 1600
+    minPrice: 1500
     sellers: []
     dimensions: []
   '2601':
     materialName: FLANSMOD_BLACKSWEATER
-    amount: 0
-    chance: 0.0
+  amount: 1
+    chance: 95
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 100
+    minListingTime: 90
+    maxPrice: 1600
+    minPrice: 1500
     sellers: []
     dimensions: []
   '2602':
     materialName: FLANSMOD_BLACKTROUSERS
-    amount: 0
-    chance: 0.0
+  amount: 1
+    chance: 95
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 100
+    minListingTime: 90
+    maxPrice: 1600
+    minPrice: 1500
     sellers: []
     dimensions: []
   '2603':
     materialName: FLANSMOD_BODYARMOUR
-    amount: 0
-    chance: 0.0
+  amount: 1
+    chance: 95
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 100
+    minListingTime: 90
+    maxPrice: 1600
+    minPrice: 1500
     sellers: []
     dimensions: []
   '2604':
     materialName: FLANSMOD_JUGGERNAUTBODYBROWN
-    amount: 0
-    chance: 0.0
+  amount: 1
+    chance: 95
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 100
+    minListingTime: 90
+    maxPrice: 1600
+    minPrice: 1500
     sellers: []
     dimensions: []
   '2605':
     materialName: FLANSMOD_JUGGERNAUTBOOTSBROWN
-    amount: 0
-    chance: 0.0
+  amount: 1
+    chance: 95
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 100
+    minListingTime: 90
+    maxPrice: 1600
+    minPrice: 1500
     sellers: []
     dimensions: []
   '2606':
     materialName: FLANSMOD_JUGGERNAUTHELMETBROWN
-    amount: 0
-    chance: 0.0
+  amount: 1
+    chance: 95
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 100
+    minListingTime: 90
+    maxPrice: 1600
+    minPrice: 1500
     sellers: []
     dimensions: []
   '2607':
     materialName: FLANSMOD_JUGGERNAUTPANTSBROWN
-    amount: 0
-    chance: 0.0
+  amount: 1
+    chance: 95
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 100
+    minListingTime: 90
+    maxPrice: 1600
+    minPrice: 1500
     sellers: []
     dimensions: []
   '2608':
     materialName: FLANSMOD_BULLDOZERBODY
-    amount: 0
-    chance: 0.0
+    amount: 1
+    chance: 95
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 100
+    minListingTime: 90
+    maxPrice: 1600
+    minPrice: 1500
     sellers: []
     dimensions: []
   '2609':
     materialName: FLANSMOD_BULLDOZERBOOTS
-    amount: 0
-    chance: 0.0
+  amount: 1
+    chance: 95
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 100
+    minListingTime: 90
+    maxPrice: 1600
+    minPrice: 1500
     sellers: []
     dimensions: []
   '2610':
     materialName: FLANSMOD_BULLDOZERHELMET
-    amount: 0
-    chance: 0.0
+   amount: 1
+    chance: 95
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 100
+    minListingTime: 90
+    maxPrice: 1600
+    minPrice: 1500
     sellers: []
     dimensions: []
   '2611':
     materialName: FLANSMOD_BULLDOZERLEGS
-    amount: 0
-    chance: 0.0
+  amount: 1
+    chance: 95
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 100
+    minListingTime: 90
+    maxPrice: 1600
+    minPrice: 1500
     sellers: []
     dimensions: []
   '2612':
     materialName: FLANSMOD_CLOAKERGOGGLES
-    amount: 0
-    chance: 0.0
+  amount: 1
+    chance: 95
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 100
+    minListingTime: 90
+    maxPrice: 1600
+    minPrice: 1500
     sellers: []
     dimensions: []
   '2613':
     materialName: FLANSMOD_GIGNBODY
-    amount: 0
-    chance: 0.0
+  amount: 1
+    chance: 95
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 100
+    minListingTime: 90
+    maxPrice: 1600
+    minPrice: 1500
     sellers: []
     dimensions: []
   '2614':
     materialName: FLANSMOD_GIGNBOOTS
-    amount: 0
-    chance: 0.0
+  amount: 1
+    chance: 95
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 100
+    minListingTime: 90
+    maxPrice: 1600
+    minPrice: 1500
     sellers: []
     dimensions: []
   '2615':
     materialName: FLANSMOD_GIGNHELMET
-    amount: 0
-    chance: 0.0
+   amount: 1
+    chance: 95
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 100
+    minListingTime: 90
+    maxPrice: 1600
+    minPrice: 1500
     sellers: []
     dimensions: []
   '2616':
     materialName: FLANSMOD_GIGNPANTS
-    amount: 0
-    chance: 0.0
+  amount: 1
+    chance: 95
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 100
+    minListingTime: 90
+    maxPrice: 1600
+    minPrice: 1500
     sellers: []
     dimensions: []
   '2617':
     materialName: FLANSMOD_JUGGERNAUTBODY
-    amount: 0
-    chance: 0.0
+  amount: 1
+    chance: 95
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 100
+    minListingTime: 90
+    maxPrice: 1600
+    minPrice: 1500
     sellers: []
     dimensions: []
   '2618':
     materialName: FLANSMOD_JUGGERNAUTBOOTS
-    amount: 0
-    chance: 0.0
+  amount: 1
+    chance: 95
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 100
+    minListingTime: 90
+    maxPrice: 1600
+    minPrice: 1500
     sellers: []
     dimensions: []
   '2619':
     materialName: FLANSMOD_JUGGERNAUTHELMET
-    amount: 0
-    chance: 0.0
+  amount: 1
+    chance: 95
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 100
+    minListingTime: 90
+    maxPrice: 1600
+    minPrice: 1500
     sellers: []
     dimensions: []
   '2620':
     materialName: FLANSMOD_JUGGERNAUTPANTS
-    amount: 0
-    chance: 0.0
+  amount: 1
+    chance: 95
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 100
+    minListingTime: 90
+    maxPrice: 1600
+    minPrice: 1500
     sellers: []
     dimensions: []
   '2621':
     materialName: FLANSMOD_KSKBODY
-    amount: 0
-    chance: 0.0
+  amount: 1
+    chance: 95
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 100
+    minListingTime: 90
+    maxPrice: 1600
+    minPrice: 1500
     sellers: []
     dimensions: []
   '2622':
     materialName: FLANSMOD_KSKBOOTS
-    amount: 0
-    chance: 0.0
+   amount: 1
+    chance: 95
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 100
+    minListingTime: 90
+    maxPrice: 1600
+    minPrice: 1500
     sellers: []
     dimensions: []
   '2623':
     materialName: FLANSMOD_KSKHELMET
-    amount: 0
-    chance: 0.0
+  amount: 1
+    chance: 95
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 100
+    minListingTime: 90
+    maxPrice: 1600
+    minPrice: 1500
     sellers: []
     dimensions: []
   '2624':
     materialName: FLANSMOD_KSKPANTS
-    amount: 0
-    chance: 0.0
+  amount: 1
+    chance: 95
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 100
+    minListingTime: 90
+    maxPrice: 1600
+    minPrice: 1500
     sellers: []
     dimensions: []
   '2625':
     materialName: FLANSMOD_MARINEBODY
-    amount: 0
-    chance: 0.0
+    amount: 1
+    chance: 95
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 100
+    minListingTime: 90
+    maxPrice: 1600
+    minPrice: 1500
     sellers: []
     dimensions: []
   '2626':
     materialName: FLANSMOD_MARINEBOOTS
-    amount: 0
-    chance: 0.0
+  amount: 1
+    chance: 95
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 100
+    minListingTime: 90
+    maxPrice: 1600
+    minPrice: 1500
     sellers: []
     dimensions: []
   '2627':
     materialName: FLANSMOD_MARINEHELMET
-    amount: 0
-    chance: 0.0
+  amount: 1
+    chance: 95
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 100
+    minListingTime: 90
+    maxPrice: 1600
+    minPrice: 1500
     sellers: []
     dimensions: []
   '2628':
     materialName: FLANSMOD_MARINEPANTS
-    amount: 0
-    chance: 0.0
+  amount: 1
+    chance: 95
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 100
+    minListingTime: 90
+    maxPrice: 1600
+    minPrice: 1500
     sellers: []
     dimensions: []
   '2629':
     materialName: FLANSMOD_SASBODY
-    amount: 0
-    chance: 0.0
+  amount: 1
+    chance: 95
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 100
+    minListingTime: 90
+    maxPrice: 1600
+    minPrice: 1500
     sellers: []
     dimensions: []
   '2630':
     materialName: FLANSMOD_SASBOOTS
-    amount: 0
-    chance: 0.0
+  amount: 1
+    chance: 95
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 100
+    minListingTime: 90
+    maxPrice: 1600
+    minPrice: 1500
     sellers: []
     dimensions: []
   '2631':
     materialName: FLANSMOD_SASHELMET
-    amount: 0
-    chance: 0.0
+  amount: 1
+    chance: 95
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 100
+    minListingTime: 90
+    maxPrice: 1600
+    minPrice: 1500
     sellers: []
     dimensions: []
   '2632':
     materialName: FLANSMOD_SASPANTS
-    amount: 0
-    chance: 0.0
+  amount: 1
+    chance: 95
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 100
+    minListingTime: 90
+    maxPrice: 1600
+    minPrice: 1500
     sellers: []
     dimensions: []
   '2633':
     materialName: FLANSMOD_SPETSNAZBODY
-    amount: 0
-    chance: 0.0
+   amount: 1
+    chance: 95
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 100
+    minListingTime: 90
+    maxPrice: 1600
+    minPrice: 1500
     sellers: []
     dimensions: []
   '2634':
     materialName: FLANSMOD_SPETSNAZBOOTS
-    amount: 0
-    chance: 0.0
+  amount: 1
+    chance: 95
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 100
+    minListingTime: 90
+    maxPrice: 1600
+    minPrice: 1500
     sellers: []
     dimensions: []
   '2635':
